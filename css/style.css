@@ -1,0 +1,35 @@
+.center{
+    text-align: center;
+    border: 1px solid black;
+}
+
+.left{
+    position: relative;
+    top: 25px;
+    margin-top: 3px;
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+
+.right{
+    position: relative;
+    top: 25px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.normal{
+    position: relative;
+    top: 35px;
+    text-align: center;
+}
+
+.normal ul li{
+    list-style: none;
+}
+
+.mv{
+    text-align: center;
+    font-size: 25px;
+    color: brown;
+}
